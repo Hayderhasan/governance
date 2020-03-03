@@ -9,6 +9,7 @@
 * When there are special questions regarding the auditing procedure, documentation and reporting, other standards are to be referred to such as ISAE 3402 or IDW PS 951 (new version) or AT section 801 and/or AT section 101.
 * There are additional expectations required by BSI besides the standards mentioned above.
 * Auditing criteria needs to be based on: relevance, completeness, reliability, neutrality, comprehensibility. This ensures a good assessment for the cloud service by the cloud provider themselves and by an independent auditor.
+
   **5.1** **Organisation of information security**
 * Objective: organisation of information security (to make sure the organisation is correctly utilising a framework regarding information security).
 * **OIS-01** ISMS (Information Security Management System): this system should be based on ISO standards of the 2700x series. It should allow for planning, implementing the plan and carrying out the project, reviewing performance and eliminating discovered weaknesses.
@@ -33,6 +34,7 @@
   The procedures for the identification, analysis, assessment and handling of risks, including the IT risks relevant to the cloud service are done at least once a year in order to take internal and external changes and influencing factors into account. 
   The identified risks are comprehensibly documented, assessed and provided with mitigating safeguards according to the safeguards of the risk management. 
 * If business processes for the development and/or operation of the cloud service are outsourced to other service companies, the cloud provider still remains responsible for these risks. 
+
   **5.2** **Security policies and work instructions**
 * Objective: providing policies and instructions with respect to the security claim and to support the business requirements. 
 * **SA-01** Documentation, communication and provision of policies and instructions:
@@ -44,6 +46,7 @@
 * The regular review is followed up by central bodies at the cloud provider. 
 * **SA-03** Deviations from existing policies and instructions:
   Exceptions of policies are approved by committees or bodies of the cloud provider authorised to do so. They should be reviewed at least once a year.
+  
   **5.3** **Personnel**
 * Objective: making sure that employees, service providers and suppliers understand their tasks and responsibility.
 * **HR-01** Security check of the background information:
@@ -59,6 +62,7 @@
   Implemented in order to make the consequences of violations of the applicable policies and instructions as well as legal provisions and laws transparent. 
 * **HR-05** Termination of the employment relationship or changes to the responsibilities:
   The obligations to comply with the laws regarding information security remain the same even if the area of responsibility changes or the employment relationship is terminated. 
+  
   **5.4** **Asset Management**
 * Objective: Identifying the organisation’s own assets and the persons responsible and ensuring an appropriate level of protection. 
 * **AM-01** Asset Inventory:
