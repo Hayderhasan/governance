@@ -1,5 +1,6 @@
 	
- 	**3.1**
+ 
+  **3.1**
 * Since it isn’t feasible or practical to do individual verification of the cloud provider service’s security, then the solution is of a uniform audit by an independent third party expert who creates a standardised report for the cloud provider to pass it on to customers and prospects is a cost-efficient and reasonable solution to this problem. 
 
   **3.2**
