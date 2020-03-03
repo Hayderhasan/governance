@@ -1,8 +1,7 @@
-​	**3.1**
-
+	
+ **3.1**
 * Since it isn’t feasible or practical to do individual verification of the cloud provider service’s security, then the solution is of a uniform audit by an independent third party expert who creates a standardised report for the cloud provider to pass it on to customers and prospects is a cost-efficient and reasonable solution to this problem. 
   **3.2**
-
 * Auditing should be done according to the ISAE 3000 (Revised) standard, which is a high-level auditing standard.
 * Audits for the implementation of C5 are carried out with as an “attestation engagement” type of assurance.
 * The starting point of the audit for the auditor is called the written assertion or written statement.
